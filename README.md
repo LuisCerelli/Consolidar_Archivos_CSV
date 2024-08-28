@@ -1,16 +1,10 @@
 # Script para Consolidar Archivos CSV
 Este script permite consolidar múltiples archivos .csv de la carpeta Input en un solo archivo, y exportar los datos combinados a un nuevo archivo .csv en la carpeta Output.
 
-Project Root/<br>
-├── Input/<br>
-│   ├── file1.csv<br>
-│   ├── file2.csv<br>
-│   └── file3.csv<br>
-├── Output/<br>
-│   └── consolidados.csv<br>
-├── script.py<br>
-└── README.md<br>
-
+<p >
+  <img src="09.webp" style="width: 30%;"/>
+  
+</p>
 
 ### Cómo Funciona
 
